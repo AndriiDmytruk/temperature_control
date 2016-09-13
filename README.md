@@ -3,6 +3,8 @@
 
 ## Prerequisites
 
+hmmm :/
+
 ####EC2 based on Ubuntu Server 14.04 LTS (HVM), SSD Volume Type 
 > See [https://aws.amazon.com/ec2/?nc1=h_ls](https://aws.amazon.com/ec2/?nc1=h_ls)
 
